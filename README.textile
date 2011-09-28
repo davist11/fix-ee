@@ -1,0 +1,10 @@
+h1. Fix-EE
+
+Defaults the custom field formatting type to "None" for new custom fields, and switches "Automatically turn URLs and email addresses into links?" to "No" when editing Channel Preferences.
+
+h2. Installation
+
+# Copy the fixee folder into your third_party directory.
+# Go to Add-Ons > Accessories and install Fix-ee.
+# When adding a new custom field, the formatting type will now default to "None"
+# When editing Channel Preferences, "Automatically turn URLs and email addresses into links?" will be set to no (you still need to submit the form though)
