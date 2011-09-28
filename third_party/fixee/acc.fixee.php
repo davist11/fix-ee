@@ -68,5 +68,5 @@ class Fixee_acc {
 	
 }
  
-/* End of file acc.simple_preview.php */
+/* End of file acc.fixee.php */
 /* Location: /system/expressionengine/third_party/fixee/acc.fixee.php */
