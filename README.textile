@@ -1,3 +1,5 @@
+*Note: This add-on is now unnecessary with the release of EE 2.4*
+
 h1. Fix-EE
 
 Defaults the custom field formatting type to "None" for new custom fields, and switches "Automatically turn URLs and email addresses into links?" to "No" when editing Channel Preferences.
